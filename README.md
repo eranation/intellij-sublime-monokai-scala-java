@@ -7,7 +7,9 @@ Based on the amazing Monokai theme, and a color picker. Not just for Java / Scal
 
 Credits 
 ----------------
-Starting point was based on y3sh great work: https://github.com/y3sh/Intellij-Colors-Sublime-Monokai 
+Starting point was based on y3sh theme: https://github.com/y3sh/Intellij-Colors-Sublime-Monokai 
+
+And of course, thanks to the original TextMate Theme by Wimer Hazenberg (http://www.monokai.nl/blog/2006/07/15/textmate-color-theme/)
 
 How to install
 ----------------
